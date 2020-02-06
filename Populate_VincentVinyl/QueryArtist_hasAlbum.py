@@ -9,7 +9,7 @@ try:
             host='localhost',
             database='VincentVinyl',
             user='root',
-            password='Kentstate8$$')
+            password='')
 
     # CREATE CURSOR
     cursor = connection.cursor()
