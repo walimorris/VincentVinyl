@@ -11,7 +11,7 @@ try:
             host='localhost',
             database='VincentVinyl',
             user='root',
-            password='Kentstate8$$')
+            password='') # add password
     
     # Create cursor 
     cursor = connection.cursor()
