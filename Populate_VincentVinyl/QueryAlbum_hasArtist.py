@@ -9,7 +9,7 @@ try:
             host='localhost', 
             database='VincentVinyl', 
             user='root',
-            password='Kentstate8$$') 
+            password='') # Insert password 
 
     # CREATE CURSOR
     cursor = connection.cursor()
@@ -29,7 +29,7 @@ try:
     # EXECUTE QUERY
     cursor.executemany(albumHasArtist_insert_query, albumid_artistid)
     connection.commit()
-    print(cursor.rowcount,"album Id and artist Id successfully updated into Album_has_artist table")
+    print(cursor.rowcount,"albumId and artistId successfully updated into Album_has_artist table")
 
 # CLEAN UP
 except mysql.connector.Error as error: 
