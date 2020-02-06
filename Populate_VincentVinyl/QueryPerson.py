@@ -10,7 +10,7 @@ try:
             host='localhost', 
             database='VincentVinyl', 
             user='root', 
-            password='Kentstate8$$') 
+            password='') # ADD PASSWORD 
 
     # CONNECT CURSOR
     cursor = connection.cursor()
