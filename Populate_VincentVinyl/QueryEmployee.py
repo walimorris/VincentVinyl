@@ -19,9 +19,9 @@ try:
                             VALUES(%s, %s, %s) """
 
     # INSERT VALUES
-    employee_to_insert = [(1, '2020-01-19', 12), # Jennifer Manning
-                          (2, '2020-02-19', 13), # Brad Martin
-                          (3, '2020-01-19', 14)] # Tina Deverson
+    employee_to_insert = [(1, '2019-01-01', 12), # Jennifer Manning
+                          (2, '2019-01-01', 13), # Brad Martin
+                          (3, '2019-01-01', 14)] # Tina Deverson
 
     # EXECUTE QUERY 
     cursor.executemany(employee_insert_query, employee_to_insert)
