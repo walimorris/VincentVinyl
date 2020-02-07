@@ -50,3 +50,27 @@ Here's an ERD Representation of Vincent's database
 ***Condition Table***
 
 ![Condition Table!](Images/ConditionTable.png)
+
+***Inventory Table***
+
+![Inventory!](Images/InventoryTable.png)
+
+***Requests Table***
+
+![Requests!](Images/RequestTable.png)
+
+***Store Purchase Table***
+
+![Store Purchase Table!](Images/StorePurchaseTable.png)
+
+***Purchase Detail Table***
+
+![Purchase detail table!](Images/PurchaseDetailTable.png)
+
+***Sales Table***
+
+![Sales Table!](Images/SalesTable.png)
+
+***Sales Detail Table***
+
+![Sales detail table!](Images/SalesDetailsTable.png)
