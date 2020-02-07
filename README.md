@@ -1,6 +1,5 @@
-# Vince's Vinyl Used Record Shop # 
-## Date: Feb 5, 2020 ##
-### By: Wali Morris ###
+   # Vince's Vinyl Used Record Shop # 
+
 
 *This database is a simplified backend version of a retail shop selling vinyl records. Currently, this 
 project doesn't include a frontend design.*
