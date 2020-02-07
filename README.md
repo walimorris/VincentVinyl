@@ -7,7 +7,7 @@ By: Wali Morris
 *This database is a simplified backend version of a retail shop selling vinyl records. Currently, this 
 project doesn't include a frontend design.*
 
-***Tools:*** *MySQL-Workbench, Python, Ubuntu 18.04
+***Tools:*** *MySQL-Workbench, Python, Ubuntu 18.04*
 
 ***Overview:***
 Vince’s Vinyl is a small shop that sells used vinyl records. Up until now, Vince, the owner, has kept
