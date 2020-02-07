@@ -1,4 +1,5 @@
-   # Vince's Vinyl Used Record Shop #                                                  ### Wali Morris ### 
+   # Vince's Vinyl Used Record Shop #                                                  
+   ### Wali Morris ### 
 
 
 *This database is a simplified backend version of a retail shop selling vinyl records. Currently, this 
