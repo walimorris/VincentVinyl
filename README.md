@@ -43,7 +43,9 @@ resources database. That is, it will not contain information about their hours, 
   * Good 
   * Fair 
   * Poor
-* 
+* The base price for an album is 150% of the price Vince paid for it
+* Vince must be free to lower or raise a price
+* Customers who buy 10 albums within a year's time get a 25% discount 
 
 
 Before populating Vincent's Vinyls: The logical design of the database was created with MySql-Workbench. 
