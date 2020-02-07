@@ -87,7 +87,7 @@ Here's an ERD Representation of Vincent's database
 
 ***Employee Table***
 
-![EmployeeTable!](Images/EmployeeTable.png)
+![EmployeeTable!](Images/EmployeeTableUpdate.png)
 
 ***Condition Table***
 
@@ -111,7 +111,7 @@ Here's an ERD Representation of Vincent's database
 
 ***Sales Table***
 
-![Sales Table!](Images/SalesTable.png)
+![Sales Table!](Images/SalesTableUpdate.png)
 
 ***Sales Detail Table***
 
