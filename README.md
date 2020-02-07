@@ -21,11 +21,11 @@ Here's an ERD Representation of Vincent's database
 
 ***Album_has_Artist Table***
 
-![The Album_has_Artist Table!](Images/Album_hasArtistTable.png)
+![The Album_has_Artist Table!](Images/Album_has_ArtistTable.png)
 
 ***Artist_has_Album Table***
 
-![The Artist_has_Album Table!](Images/Artist_hasAlbumTable.png)
+![The Artist_has_Album Table!](Images/Artist_has_AlbumTable.png)
 
 ***Genre Table*** 
 
@@ -37,7 +37,7 @@ Here's an ERD Representation of Vincent's database
 
 ***Album_has_Genre Table***
 
-![The Album_hasGenreTable!](Images/Album_hasGenreTable.png)
+![The Album_hasGenreTable!](Images/Album_has_GenreTable.png)
 
 ***Person Table***
 
