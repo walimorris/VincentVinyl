@@ -51,7 +51,7 @@ Here's an ERD Representation of Vincent's database
 
 ![VincentsERD!](Images/VincentsVFinal.png)
 
-**A CLOSER LOOK AT EACH TABLE:**
+***A CLOSER LOOK:***
 
 ***Album Table***
 
