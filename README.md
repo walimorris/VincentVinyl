@@ -46,3 +46,7 @@ Here's an ERD Representation of Vincent's database
 ***Employee Table***
 
 ![EmployeeTable!](Images/EmployeeTable.png)
+
+***Condition Table***
+
+![Condition Table!](Images/ConditionTable.png)
