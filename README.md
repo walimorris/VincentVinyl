@@ -145,10 +145,6 @@ Here's an ERD Representation of Vincent's database
 
 ![Artist Table updated!](Images/ArtistTableUpdated.png)
 
-***Updated Employee Table***
-
-![Employed Table updated!](Images/EmployeeTableUpdate.png)
-
 ***Updated inventory Table***
 
 ![Inventory table updated!](Images/InventoryTableUpdated.png)
