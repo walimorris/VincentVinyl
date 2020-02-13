@@ -116,3 +116,23 @@ Here's an ERD Representation of Vincent's database
 ***Sales Detail Table***
 
 ![Sales detail table!](Images/SalesDetailsTable.png)
+
+***SQL QUERIES TO VIEW A FEW TABLES***
+
+***Artists Table Query***
+
+![ArtistsTableQuery!](Images/ARTISTSQLQUERY.png)
+
+***Sale and Sale Details for idSale 2***
+
+![idSale2!](Images/id2_SaleDetails.png)
+
+***Viewing outstanding album requests***
+
+![outstanding requests!](Images/RequestQuery.png)
+
+***Queries to add new customer, album purchase, request, person, and inventory***
+
+![A few Queries!](Images/SQLQueries2.png)
+
+
