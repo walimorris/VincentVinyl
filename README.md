@@ -135,4 +135,37 @@ Here's an ERD Representation of Vincent's database
 
 ![A few Queries!](Images/SQLQueries2.png)
 
+***THE UPDATED TABLES FROM ABOVE QUERIES***
+
+***Updated Album Table***
+
+![Album Table updated!](Images/AlbumTableUpdated.png)
+
+***Updated Artist Table***
+
+![Artist Table updated!](Images/ArtistTableUpdated.png)
+
+***Updated Employee Table***
+
+![Employed Table updated!](Images/EmployeeTableUpdate.png)
+
+***Updated inventory Table***
+
+![Inventory table updated!](Images/InventoryTableUpdated.png)
+
+***Updated Person Table***
+
+![Person Table updated!](Images/PersonTableUpdated.png)
+
+***Updated Purchase Table***
+
+![Purchase Table updated!](Images/PurchaseTableUpdated.png)
+
+***Updated Request Table***
+
+![request table update!](Images/RequestTableUpdated.png)
+
+***Updated Store Purchase Table***
+
+![store purchase table updated!](Images/StorePurchaseTableUpdated.png)
 
